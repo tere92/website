@@ -2191,29 +2191,26 @@ Send us an email
 
 
 <div class="col text-truncate col-bottom-aligned-child" style="margin: 0 !important; white-space: normal; text-align: center; font-family: Lato, sans-serif; font-style: normal !important; font-size: 1.1rem !important; color: #003e52 !important; padding: 1rem 1.5rem !important; width: 100%">
+
 <script type="text/javascript">
 	/*<![CDATA[*/
 	var a=new Array(".rocks", "stone", "crown", "@", "sk", "a");
+	<!-- Write in plain but obfuscated text -->
 	document.write("<span>");
 	for(i=a.length-1;i>=0;i--){
 		document.write(a[i])
 	}
 	document.write("</span> <br>");
+	<!-- Write as hyperlink -->
+	document.write("<a href='mailto:");
+	for(i=a.length-1;i>=0;i--) {
+		document.write(a[i])
+	}
+	document.write("?subject=Support: Indoor positioning' class='no-link-style'>");
+	document.write("<i class='el el-envelope no-link-style'></i></a>");
 	/*]]>*/
 </script>
 
-<script type="text/javascript">
-	/*<![CDATA[*/
-    var a=new Array(".rocks", "stone", "crown", "@", "sk", "a");
-    document.write("<a href='mailto:");
-    for(i=a.length-1;i>=0;i--) {
-        document.write(a[i])
-    }
-    document.write("?subject=Support: Indoor positioning' class='no-link-style'>");
-    document.write("<i class='el el-envelope no-link-style'></i></a>");
-    /*]]>*/
-</script>
-
 
 
 
@@ -2225,6 +2222,7 @@ Send us an email
 </div>
 
 </div>
+
 
 
 
@@ -2263,6 +2261,7 @@ Give us a call
 </div>
 
 </div>
+
 
 </div>
 </div>
