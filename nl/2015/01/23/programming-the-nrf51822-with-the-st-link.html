@@ -403,10 +403,6 @@
      
     
      
-      
-     
-    
-     
     
      
       
@@ -716,10 +712,6 @@
       
      
     
-     
-    
-     
-      
      
     
      
@@ -1267,10 +1259,6 @@
      
     
      
-      
-     
-    
-     
     
      
       
@@ -1482,10 +1470,9 @@ connect it:</p>
 <p>Use something like a logic analyzer to see if you do things wrong. This is a very, very useful tool that can save you
 a lot of time.</p>
 
-<h1 id="header-scripts">Scripts</h1>
+<h1 id="header-programming">Programming</h1>
 
-<p>Normally the Crownstone we program with the J-Link from Segger, but if you want to use this cheaper solution, we also
-created some files for you at the <a href="https://github.com/dobots/bluenet/tree/master/scripts">BlueNet repository at github</a>.</p>
+<p>The Crownstone we program with the J-Link from Segger. Read how to do this at the <a href="https://github.com/crownstone/bluenet">Bluenet repository at github</a>.</p>
 
 <h2 id="header-combination">Combination</h2>
 
@@ -1520,14 +1507,14 @@ Before you use it, you will need to install <code class="language-plaintext high
 git clone https://github.com/ntfreak/openocd
 sudo aptitude install libtool automake libusb-1.0-0-dev expect
 cd openocd
-./bootstrap 
+./bootstrap
 ./configure --enable-stlink
 make
 sudo make install
 </code></pre></div></div>
 
-<p>You will see that there are several files on <a href="https://github.com/dobots/bluenet/tree/master/scripts/openocd">github</a> 
-that you can use. There is a <code class="language-plaintext highlighter-rouge">49-stlinkv2.rules</code> file that you can use for <code class="language-plaintext highlighter-rouge">udev</code> so that no superuser rights are 
+<p>You will see that there are several files on <a href="https://github.com/crownstone/bluenet/tree/d1e370ac968849a7544791a07706b9172e566af0/source/scripts/openocd">github</a>
+that you can use (note that this is old, 2019). There is a <code class="language-plaintext highlighter-rouge">49-stlinkv2.rules</code> file that you can use for <code class="language-plaintext highlighter-rouge">udev</code> so that no superuser rights are
 required to use the <code class="language-plaintext highlighter-rouge">ST-Link</code>. There is also an <code class="language-plaintext highlighter-rouge">openocd.cfg</code> file that sets the defaults for the hardware we are
 gonna use (the <code class="language-plaintext highlighter-rouge">nrf51</code> series).</p>
 
@@ -1556,7 +1543,7 @@ is not necessary):</p>
 <p>If your target does not have pins to break out UART, it might be worth to first try and start experimenting with the
 RFduino. That board has enough pins broken out, to see what for example the Crownstone code is actually doing. For
 example if you combine a SoftDevice with the wrong bootloader, you will see proper error messages. If you know how
-to hook up <code class="language-plaintext highlighter-rouge">gdb</code> over OpenOCD, please feel free to file an issue at <a href="https://github.com/dobots/bluenet/">https://github.com/dobots/bluenet/</a> and I will
+to hook up <code class="language-plaintext highlighter-rouge">gdb</code> over OpenOCD, please feel free to file an issue at <a href="https://github.com/crownstone/bluenet/">https://github.com/crownstone/bluenet/</a> and we will
 be happy to update this guide.</p>
 
 

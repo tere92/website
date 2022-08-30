@@ -68,7 +68,6 @@ https://crownstone.rocks/indoor-positioning/
 https://crownstone.rocks/business/telecom
 https://crownstone.rocks/infrastructure/
 https://crownstone.rocks/partner/qurrent
-https://crownstone.rocks/packages/smarthome/
 https://crownstone.rocks/compatibility/dimming/
 https://crownstone.rocks/start/
 https://crownstone.rocks/energy-efficiency/

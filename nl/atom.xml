@@ -4,7 +4,7 @@
  <title>Crownstone</title>
  <link href="https://crownstone.rocks/nl/" rel="self"/>
  <link href="https://crownstone.rocks"/>
- <updated>2022-06-13T11:23:33+00:00</updated>
+ <updated>2022-08-30T08:17:45+00:00</updated>
  <id>https://crownstone.rocks</id>
  <author>
    <name>Crownstone B.V.</name>
@@ -1117,7 +1117,7 @@ before “the robots take over”.&lt;/li&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.buzzfeednews.com/article/katienotopoulos/facebook-advertisers-data-brokers-car-dealerships&quot;&gt;Facebook&lt;/a&gt; who has your data!?&lt;/li&gt;
   &lt;li&gt;Starting the 1st of July, Dutch companies are obligated to use LED lights. The &lt;a href=&quot;https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2018Z20512&amp;amp;did=2018D53429&quot;&gt;motion&lt;/a&gt; cites a reduction of 0.9 megaton CO2.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://finance.yahoo.com/news/xcel-energy-end-coal-upper-154800947.html&quot;&gt;Xcel Energy&lt;/a&gt; (3.3M customers) closes two coal plants.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xcelenergy.com/&quot;&gt;Xcel Energy&lt;/a&gt; (3.3M customers) closes two coal plants.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://radar.avrotros.nl/uitzendingen/gemist/item/tv-uitzending-25-02-2019/&quot;&gt;Heat pumps&lt;/a&gt; in the Dutch tv-program Radar got a very bad vibe, but was that 
 &lt;a href=&quot;https://www.vakbladwarmtepompen.nl/projecten/artikel/2019/03/warmtepompgebruiker-bij-radar-wat-ging-er-mis-1014414&quot;&gt;justified&lt;/a&gt;?&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/weskerfoot/DeleteFB&quot;&gt;Delete Facebook&lt;/a&gt; posts with a Selenium script.&lt;/li&gt;
@@ -1127,11 +1127,6 @@ before “the robots take over”.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ianbicking.org/blog/2019/04/users-want-control-is-a-shrug.html&quot;&gt;Ian Bicking&lt;/a&gt; on what privacy actually means for different people.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;header-meet-us&quot;&gt;Meet us&lt;/h1&gt;
-
-&lt;p&gt;Reserve the 7th of June in your calendar for our yearly &lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/events/256744310/&quot;&gt;meetup&lt;/a&gt;.
-There’s free food and beer and it’s the perfect opportunity to get hands-on experience with smart home tech!
-Also a warm welcome to Teresa who will work on making sure that our smart homes find their new users!&lt;/p&gt;
 </content>
  </entry>
  
@@ -1214,7 +1209,7 @@ is physically superior to other colors? Traditionally, green pigments were used 
   &lt;li&gt;Ron Wyden, a democratic senator &lt;a href=&quot;https://trofire.com/2019/02/08/democrat-proposes-jail-time-for-tech-companies-who-steal-your-data/&quot;&gt;proposed a bill&lt;/a&gt; to enforce jail time for tech companies stealing your data.&lt;/li&gt;
   &lt;li&gt;If you run &lt;a href=&quot;https://data.home-assistant.io/&quot;&gt;Home Assistant&lt;/a&gt; as your smart home platform, there is now a portal for data scientists!&lt;/li&gt;
   &lt;li&gt;An &lt;a href=&quot;https://techcrunch.com/2019/02/11/softbanks-next-bet-940m-into-autonomous-delivery-startup-nuro/&quot;&gt;autonomous startup&lt;/a&gt;, Nuro, raising short of 1 billion euros, in this case to deliver goods at home.&lt;/li&gt;
-  &lt;li&gt;The NSA released in a very good open-source reverse engineering framework, &lt;a href=&quot;https://www.nsa.gov/resources/everyone/ghidra/&quot;&gt;Ghidra&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;The NSA released in a very good open-source reverse engineering framework, Ghidra.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;header-meet-us&quot;&gt;Meet us&lt;/h1&gt;
@@ -1247,7 +1242,7 @@ building a new house, or doing any kind of reconstruction.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/blog/smart_speaker_reach.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’re living in Europe, the offering of this type of technology is slower, but it just lags. The different languages are hurdles for the technology. However, these are just minor bumps. If you understand Dutch, check the &lt;a href=&quot;https://tweakers.net/plan/1179/bekijk-hier-de-talks-terug-van-de-meet-up-smarthome-in-eindhoven.html&quot;&gt;last talk at this Tweakers meetup&lt;/a&gt; to see how - for a different language - only a small part of a deep neural net needs to be retrained. Case in point, Google Home is now &lt;a href=&quot;https://www.coolblue.nl/en/product/803578/google-home.html&quot;&gt;available&lt;/a&gt; in the Netherlands.&lt;/p&gt;
+&lt;p&gt;If you’re living in Europe, the offering of this type of technology is slower, but it just lags. The different languages are hurdles for the technology. However, these are just minor bumps. If you understand Dutch, check the &lt;a href=&quot;https://tweakers.net/plan/1179/bekijk-hier-de-talks-terug-van-de-meet-up-smarthome-in-eindhoven.html&quot;&gt;last talk at this Tweakers meetup&lt;/a&gt; to see how - for a different language - only a small part of a deep neural net needs to be retrained. Case in point, Google Home is now (2018) available in the Netherlands.&lt;/p&gt;
 
 &lt;h1 id=&quot;header-whats-next&quot;&gt;What’s next?&lt;/h1&gt;
 
@@ -1283,7 +1278,7 @@ building a new house, or doing any kind of reconstruction.&lt;/p&gt;
 
 &lt;h1 id=&quot;header-meet-us&quot;&gt;Meet us!&lt;/h1&gt;
 
-&lt;p&gt;If you’re curious what our smart home tech might mean for you, contact us! In January we will be in the United States, Las Vegas at CES 2019. &lt;a href=&quot;https://ces19.mapyourshow.com/7_0/exhibitor/exhibitor-details.cfm?ExhID=T0000336&quot;&gt;Add us&lt;/a&gt; to your schedule for a demo with super cool new functions! Also, drop Anne a message if you’re in the Bay Area. In March we will be at Jaarbeurs Utecht, the Netherlands at &lt;a href=&quot;https://www.realiseerjedroomhuis.nl/voorjaarseditie-2019/&quot;&gt;Beurs Eigen Huis&lt;/a&gt;. And, for any question &lt;a href=&quot;https://crownstone.slack.com/&quot;&gt;Slack&lt;/a&gt; us!&lt;/p&gt;
+&lt;p&gt;If you’re curious what our smart home tech might mean for you, contact us! In January we will be in the United States, Las Vegas at CES 2019. Add us to your schedule for a demo with super cool new functions! Also, drop Anne a message if you’re in the Bay Area. In March we will be at Jaarbeurs Utecht, the Netherlands at Beurs Eigen Huis. And, for any question &lt;a href=&quot;https://crownstone.slack.com/&quot;&gt;Slack&lt;/a&gt; us!&lt;/p&gt;
 
 </content>
  </entry>
@@ -1432,7 +1427,7 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 
 &lt;ul&gt;
   &lt;li&gt;On Android we have been optimizing the BLE library. We’ve even considered the use of SweetBlue which would come with a commercial license. However, although this aims to solve a lot of BLE problems on Android phones, they have a &lt;a href=&quot;https://github.com/iDevicesInc/SweetBlue/wiki/Android-BLE-Issues&quot;&gt;large list with issues&lt;/a&gt; and we dare to say that our library is already better. :-) If you’re experiencing trouble with a particular Android phone drop Bart a message!&lt;/li&gt;
-  &lt;li&gt;We’ve been creating our first &lt;a href=&quot;https://github.com/crownstone/bluenet-python-lib&quot;&gt;Python binding&lt;/a&gt; that makes use of a particular Crownstone mesh-aware USB stick that you can put on a Raspberry PI or other convenient hub. This accelerates the integration with systems from B2B partners as well as home automation systems like &lt;a href=&quot;https://home-assistant.io/&quot;&gt;home-assistant.io&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;We’ve been creating our first &lt;a href=&quot;https://github.com/crownstone/crownstone-lib-python&quot;&gt;Python binding&lt;/a&gt; that makes use of a particular Crownstone mesh-aware USB stick that you can put on a Raspberry PI or other convenient hub. This accelerates the integration with systems from B2B partners as well as home automation systems like &lt;a href=&quot;https://home-assistant.io/&quot;&gt;home-assistant.io&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;The webhooks in the &lt;a href=&quot;https://github.com/crownstone/crownstone-cloud&quot;&gt;Crownstone cloud&lt;/a&gt; are pretty stable now. They can be used by dedicated partners who want to give their users real-time access to switch, power, or localization data.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1461,7 +1456,7 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 &lt;p&gt;There have been quite a few interesting developments in the world.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Andreas Brekken going through the installation process of using IOTA, a coin that promises to bring cryptocurrency to the internet of things and &lt;a href=&quot;https://shitcoin.com/iota-cannot-be-used-for-iot-loss-of-funds-may-occur-e45b1ed9dd6b&quot;&gt;not being happy about it&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Andreas Brekken going through the installation process of using IOTA, a coin that promises to bring cryptocurrency to the internet of things and &lt;a href=&quot;https://medium.com/andreas-tries-blockchain/iota-cannot-be-used-for-iot-loss-of-funds-may-occur-e45b1ed9dd6b&quot;&gt;not being happy about it&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Taylor Lorenz characterizing the CES as &lt;a href=&quot;https://www.thedailybeast.com/ces-was-full-of-useless-robots-and-machines-that-dont-work&quot;&gt;full of robots and machines that don’t work&lt;/a&gt;. :-)&lt;/li&gt;
   &lt;li&gt;A &lt;a href=&quot;https://android-developers.googleblog.com/2018/03/previewing-android-p.html&quot;&gt;preview of Android P&lt;/a&gt; reveals a large emphasis on indoor localization. This is good news for us, because it means that (1) smartphones will become better optimized to run this type of function in the background, and (2) allows us to extend our indoor localization skills beyond our current hardware.&lt;/li&gt;
   &lt;li&gt;An interesting &lt;a href=&quot;https://www.entsoe.eu/news-events/announcements/announcements-archive/Pages/News/2018-03-06-press-release-continuing-frequency-deviation-in-the-continental-european-power-system.aspx&quot;&gt;frequency deviation&lt;/a&gt; in the European electricity grid originating in Serbia/Kosovo. A lot of clocks are synced to the 50 Hz of the grid, but in our case dimming depends also on the 50 Hz. Note that we use a combination of frequency discovery (by zero point detection) and this 50 Hz prior, so we’re quite stable against such deviations.&lt;/li&gt;
@@ -1470,7 +1465,7 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 
 &lt;h2 id=&quot;header-meetup&quot;&gt;Meetup&lt;/h2&gt;
 
-&lt;p&gt;The following meetup is still quite some time away, Friday the 1st of June! The meetup is gonna be about the Crownstone integrated with the &lt;a href=&quot;https://www.athom.com/en/&quot;&gt;Homey&lt;/a&gt;. Feel free to &lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/events/248695959/&quot;&gt;subscribe&lt;/a&gt; already to the event!&lt;/p&gt;
+&lt;p&gt;The following meetup is still quite some time away, Friday the 1st of June! The meetup is gonna be about the Crownstone integrated with the &lt;a href=&quot;https://www.athom.com/en/&quot;&gt;Homey&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
@@ -1492,8 +1487,8 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 &lt;p&gt;On one hand there are &lt;a href=&quot;https://www.androidcentral.com/new-low-energy-mesh-connection-standards-mean-bluetooth-will-be-big-part-internet-things&quot;&gt;articles that explain&lt;/a&gt; the benefits of Bluetooth mesh for asset tracking in hospitals. On the other hand there are &lt;a href=&quot;https://www.iotforall.com/bluetooth-geolocation/&quot;&gt;articles that say&lt;/a&gt; that geolocation is a tragic misuse of Bluetooth. Let us address this use of Bluetooth Low Energy (BLE) for getting your stolen bicycle back.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The current solution that solves outdoor tracking is a combination of a GPS and a GPRS chip, the first to get a location fix, the second to communicate it to the user. The &lt;a href=&quot;https://buytrackimo.myshopify.com/collections/frontpage/products/trackimo-device/&quot;&gt;trackimo&lt;/a&gt; for example costs $79 for the hardware and $60 per year for the subscription. The tech involved requires quite some battery power as well. Moreover, the above costs are definitely reasonable for the tech involved and are unlikely to drop significantly.&lt;/li&gt;
-  &lt;li&gt;A solution like &lt;a href=&quot;https://www.thetrackr.com/&quot;&gt;TrackR&lt;/a&gt; does crowdsource the location of BLE tags. It hopes enough people are installing the TrackR app on their smartphones. These apps are continuously scanning for potentially lost tags all the time. When a tag is lost it is hopefully picked up by a person nearby. The problem is that too many people have to run an app that has no function for them at that very moment.&lt;/li&gt;
+  &lt;li&gt;The current solution that solves outdoor tracking is a combination of a GPS and a GPRS chip, the first to get a location fix, the second to communicate it to the user. The “trackimo” for example costs $79 for the hardware and $60 per year for the subscription. The tech involved requires quite some battery power as well. Moreover, the above costs are definitely reasonable for the tech involved and are unlikely to drop significantly.&lt;/li&gt;
+  &lt;li&gt;A solution like “TrackR” does crowdsource the location of BLE tags. It hopes enough people are installing the TrackR app on their smartphones. These apps are continuously scanning for potentially lost tags all the time. When a tag is lost it is hopefully picked up by a person nearby. The problem is that too many people have to run an app that has no function for them at that very moment.&lt;/li&gt;
   &lt;li&gt;A solution like &lt;a href=&quot;https://www.spotty.eu/en-NL/shop/detail/product/53&quot;&gt;Spotty&lt;/a&gt; which is a (reward) QR sticker that can be scanned by helpful people. This will work mostly with lost items, not so much with a stolen bike.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1523,7 +1518,7 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 
 &lt;h2 id=&quot;header-tedx-rotterdam&quot;&gt;TEDx Rotterdam&lt;/h2&gt;
 
-&lt;p&gt;Quite a few people signed up to our meetup (&lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/&quot;&gt;sign up yourself&lt;/a&gt;). If you would like to join us as well and happen to have some time during the day as well, check out &lt;a href=&quot;https://tedxrotterdam.com/&quot;&gt;TEDx Rotterdam&lt;/a&gt;. Get a &lt;a href=&quot;https://www.eventbrite.nl/e/tickets-tedxrotterdam-main-event-37786248687&quot;&gt;ticket&lt;/a&gt; and enjoy talks from for example &lt;a href=&quot;https://www.linkedin.com/in/woutervannoort/&quot;&gt;Wouter van Noort&lt;/a&gt; (AI, blockchain), &lt;a href=&quot;https://www.linkedin.com/in/jasnarokegem/&quot;&gt;Jasna Rokegem&lt;/a&gt; (high tech fashion), &lt;a href=&quot;https://www.linkedin.com/in/marcelschouwenaar/&quot;&gt;Marcel Schouwenaar&lt;/a&gt; (thingies), &lt;a href=&quot;https://www.linkedin.com/in/wienke/&quot;&gt;Wienke Giezeman&lt;/a&gt; (thingies in a network), &lt;a href=&quot;https://www.linkedin.com/in/jaya-baloo-558492/&quot;&gt;Jaya Baloo&lt;/a&gt; (secure thingies), &lt;a href=&quot;https://www.linkedin.com/in/emma-van-der-leest-ab493697/&quot;&gt;Emma van der Leest&lt;/a&gt; (biodesign). And who wouldn’t want a Crownstone happy hour after a TEDx happy hour? :-)&lt;/p&gt;
+&lt;p&gt;If you would like to join TEDx Rotterdam, check out &lt;a href=&quot;https://tedxrotterdam.com/&quot;&gt;TEDx Rotterdam&lt;/a&gt;. Get a &lt;a href=&quot;https://www.eventbrite.nl/e/tickets-tedxrotterdam-main-event-37786248687&quot;&gt;ticket&lt;/a&gt; and enjoy talks from for example &lt;a href=&quot;https://www.linkedin.com/in/woutervannoort/&quot;&gt;Wouter van Noort&lt;/a&gt; (AI, blockchain), &lt;a href=&quot;https://www.linkedin.com/in/jasnarokegem/&quot;&gt;Jasna Rokegem&lt;/a&gt; (high tech fashion), &lt;a href=&quot;https://www.linkedin.com/in/marcelschouwenaar/&quot;&gt;Marcel Schouwenaar&lt;/a&gt; (thingies), &lt;a href=&quot;https://www.linkedin.com/in/wienke/&quot;&gt;Wienke Giezeman&lt;/a&gt; (thingies in a network), &lt;a href=&quot;https://www.linkedin.com/in/jaya-baloo-558492/&quot;&gt;Jaya Baloo&lt;/a&gt; (secure thingies), &lt;a href=&quot;https://www.linkedin.com/in/emma-van-der-leest-ab493697/&quot;&gt;Emma van der Leest&lt;/a&gt; (biodesign). And who wouldn’t want a Crownstone happy hour after a TEDx happy hour? :-)&lt;/p&gt;
 
 </content>
  </entry>
@@ -1540,9 +1535,11 @@ of it for our open-source solutions at &lt;a href=&quot;https://github.com/crown
 
 &lt;p&gt;What would a smart energy contract look like? At Qurrent (the utility company) a &lt;a href=&quot;https://hackathon.qurrent.nl/?href=crownstone&quot;&gt;Hackathon&lt;/a&gt; is organized by &lt;a href=&quot;https://www.qurrent.nl/&quot;&gt;Qurrent&lt;/a&gt; itself and &lt;a href=&quot;https://labela.nl/&quot;&gt;Label A&lt;/a&gt; that is exactly meant to answer this question. One interesting point you might have not considered is consumer protection. In a lot of situations the &lt;a href=&quot;https://www.acm.nl/en/&quot;&gt;ACM&lt;/a&gt; (consumer protection agency) in the Netherlands allows people to cancel their contract if there is a price change. Now, assume the price changes each hour due to wind and sun. Providers that give you these benefits suddenly are at a disadvantage with respect to utilities that are less environmentally friendly! Make sure you sign up fast, or they might run out of spots.&lt;/p&gt;
 
-&lt;p&gt;The prize to win! A nice 10.000 kWh per team. Nice energy to do some altcoin mining. :-) &lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/events/241340315/&quot;&gt;Join our hackerspace meetup&lt;/a&gt; to - eventually - prepare for this hackathon. If you already know how to control the Crownstones, you can even quicker come up with smart energy-related applications!
-Plenty of updates!
-There has been quite some progress in the software development, firmware as well as app. The behavior is now easy accessible. Moreover, it is possible to set a timer. Stay tuned for more!&lt;/p&gt;
+&lt;p&gt;The prize to win! A nice 10.000 kWh per team. Nice energy to do some altcoin mining. :-)&lt;/p&gt;
+
+&lt;h1 id=&quot;header-plenty-of-updates&quot;&gt;Plenty of updates!&lt;/h1&gt;
+
+&lt;p&gt;There has been quite some progress in the software development, firmware as well as app. The behavior is now easy accessible. Moreover, it is possible to set a timer. Stay tuned for more!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/screenshot-schedule.jpg&quot; alt=&quot;Screenshot schedule&quot; /&gt;
 &lt;img src=&quot;https://crownstone.rocks/attachments/screenshot-behavior.jpg&quot; alt=&quot;Screenshot behavior&quot; /&gt;&lt;/p&gt;
@@ -1551,7 +1548,7 @@ There has been quite some progress in the software development, firmware as well
 
 &lt;h2 id=&quot;header-webinar-for-installers&quot;&gt;Webinar for installers&lt;/h2&gt;
 
-&lt;p&gt;Webinar for installers. If you know people who earn their money as installers, point them to this &lt;a href=&quot;https://isso.nl/updates/nieuws/nieuwsitem/news/isso-organiseert-webinar-over-indoor-locatiebepaling/&quot;&gt;ISSO webinar&lt;/a&gt; (September 12 at 12 o’clock). Anne will explain indoor localization and other things around smart homes that are relevant to the installer.&lt;/p&gt;
+&lt;p&gt;Webinar for installers. If you know people who earn their money as installers, there’s an ISSO webinar (September 12 at 12 o’clock). Anne will explain indoor localization and other things around smart homes that are relevant to the installer.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-interesting-stuff-in-the-world&quot;&gt;Interesting stuff in the world&lt;/h2&gt;
 
@@ -2035,7 +2032,7 @@ next!&lt;/p&gt;
 
 &lt;h2 id=&quot;header-bluetooth-specification&quot;&gt;Bluetooth specification&lt;/h2&gt;
 
-&lt;p&gt;The alternative to trusted devices is to use untrusted devices and introduce encryption at the application layer. It is important not to roll your own encryption. For example AES-128 or AES-256 is a common encryption method. Seagate has a nice technology paper about the &lt;a href=&quot;http://www.axantum.com/AxCrypt/etc/seagate128vs256.pdf&quot;&gt;pros and cons&lt;/a&gt; of AES-128. Note how important it is to think about where and how to store these keys! Most systems are not hacked because of the cryptographic mechanism itself, but the management and deployment of the keys. Additional security measures that can be taken are things like (1) broadcasting very weakly when in factory settings, so only a person in close proximity can set up a new device, (2) making sure that the keys are accessible by nothing else except for the right smartphone apps.&lt;/p&gt;
+&lt;p&gt;The alternative to trusted devices is to use untrusted devices and introduce encryption at the application layer. It is important not to roll your own encryption. For example AES-128 or AES-256 is a common encryption method. Seagate had a nice technology paper about the pros and cons of AES-128 (but not available anymore). It is important to think about where and how to store these keys! Most systems are not hacked because of the cryptographic mechanism itself, but the management and deployment of the keys. Additional security measures that can be taken are things like (1) broadcasting very weakly when in factory settings, so only a person in close proximity can set up a new device, (2) making sure that the keys are accessible by nothing else except for the right smartphone apps.&lt;/p&gt;
 
 &lt;p&gt;To be able to connect to untrusted devices the Bluetooth specification is a little bit vague with respect to caching. On Android and iOS the BLE services are discovered through calling a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.discoverServices()&lt;/code&gt; method. This then subsequently queries the BLE device for services. These services are represented by attribute handles. To be able to quickly connect to a BLE device without having to discover all services on each connection attempt, it is possible to use attribute caching. The cache contains the handles and the smartphone can directly send a message to a particular handle, for example to turn on the lights.&lt;/p&gt;
 
@@ -2100,14 +2097,11 @@ next!&lt;/p&gt;
 
 &lt;h2 id=&quot;header-nordic-at-ces&quot;&gt;Nordic at CES&lt;/h2&gt;
 
-&lt;p&gt;Currently &lt;a href=&quot;https://www.nordicsemi.com/eng/Events/CES-2017&quot;&gt;Nordic&lt;/a&gt; is at &lt;a href=&quot;http://www.ces.tech/&quot;&gt;CES in Las Vegas&lt;/a&gt; (Consumer Electronics Show) featuring a wide range of products that uses their nRF51 and nRF52 series (the chip that’s in the Crownstone). In hindsight it is logical that a wireless technology that is present on the smartphone will become ubiquitous, but now it became reality! Crownstone has a special place right in the center. A few builtin Crownstones are switched by an &lt;a href=&quot;https://www.enocean.com/en/&quot;&gt;EnOcean&lt;/a&gt; switch (using Dolphin energy harvesting). You can see that the switch is not attached to anything, moreover, it does not have a battery either! If you happen to be in Las Vegas, drop us a message!&lt;/p&gt;
+&lt;p&gt;Currently &lt;a href=&quot;https://www.nordicsemi.com/&quot;&gt;Nordic&lt;/a&gt; is at &lt;a href=&quot;http://www.ces.tech/&quot;&gt;CES in Las Vegas&lt;/a&gt; (Consumer Electronics Show) featuring a wide range of products that uses their nRF51 and nRF52 series (the chip that’s in the Crownstone). In hindsight it is logical that a wireless technology that is present on the smartphone will become ubiquitous, but now it became reality! Crownstone has a special place right in the center. A few builtin Crownstones are switched by an &lt;a href=&quot;https://www.enocean.com/en/&quot;&gt;EnOcean&lt;/a&gt; switch (using Dolphin energy harvesting). You can see that the switch is not attached to anything, moreover, it does not have a battery either! If you happen to be in Las Vegas, drop us a message!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/nordic-ces0.jpg&quot; alt=&quot;Nordic at CES&quot; title=&quot;Nordic at CES&quot; class=&quot;float-left&quot; width=&quot;42%&quot; style=&quot;margin:4%&quot; /&gt;
 &lt;img src=&quot;https://crownstone.rocks/attachments/nordic-ces1.jpg&quot; alt=&quot;Nordic at CES&quot; title=&quot;Nordic at CES&quot; class=&quot;float-right&quot; width=&quot;42%&quot; style=&quot;margin:4%&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;header-welcome&quot;&gt;Welcome!&lt;/h2&gt;
-
-&lt;p&gt;Every first Friday in the month, also this month, there is a &lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/&quot;&gt;meetup&lt;/a&gt; hosted by us! If you want to know more about smart homes this might be nice for you. The plan is to talk a little bit about hacking, a bit about the future (privacy for example), and a bit about artificial intelligence. Naturally there will be plenty of time to play with the Crownstones!&lt;/p&gt;
 </content>
  </entry>
  
@@ -2136,8 +2130,8 @@ next!&lt;/p&gt;
 &lt;h2 id=&quot;header-bluetooth-signals&quot;&gt;Bluetooth Signals&lt;/h2&gt;
 
 &lt;p&gt;The Crownstones receive Bluetooth Low Energy (BLE) messages on a frequency of 2.4 GHz. This is the same frequency as WiFi (although nowadays you also have 5 GHz routers). To snoop up BLE messages we use the so-called 
-&lt;a href=&quot;https://hakshop.com/products/ubertooth-one&quot;&gt;Ubertooth&lt;/a&gt;. We namely encountered strange behavior in the arrival frequency of BLE messages from Crownstones configured as 
-&lt;a href=&quot;https://developers.google.com/beacons/&quot;&gt;Eddystones (Google beacon)&lt;/a&gt; 
+&lt;a href=&quot;https://hakshop.com/products/ubertooth-one&quot;&gt;Ubertooth&lt;/a&gt;. We namely encountered strange behavior in the arrival frequency of BLE messages from Crownstones configured as
+Eddystones (Google beacons)
 versus the ones configured as full Crownstones. So, Ubertooth to the rescue! Let’s see how these things communicate!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/ubertooth-device.jpg&quot; alt=&quot;Ubertooth&quot; title=&quot;Ubertooth device&quot; class=&quot;float-left&quot; width=&quot;42%&quot; style=&quot;margin:4%&quot; /&gt;
@@ -2166,10 +2160,11 @@ versus the ones configured as full Crownstones. So, Ubertooth to the rescue! Let
 &lt;h2 id=&quot;header-installation-signals&quot;&gt;Installation Signals!&lt;/h2&gt;
 
 &lt;p&gt;A few of the very early backers are currently testing Crownstones at home, to make sure we will offer you all the best experience possible! For the plugs this will be relatively simple. However, if you have ordered built-in Crownstones we can imagine that you like to get some installation advice!
- We are working together with 
-&lt;a href=&quot;http://www.concomcow.nl/&quot;&gt;ConComCow&lt;/a&gt; 
-to realize a part of the Real Life Learning roadmap for students at 
-&lt;a href=&quot;https://www.techniekcollegerotterdam.nl/maakindustrie-bouwen-wonen/opleiding/technicus-human-technology&quot;&gt;Human Technology van het Techniek College Rotterdam&lt;/a&gt;. Our society needs to train people to obtain a combination of social and technical skills! We call this the “social mechanic” (sociale monteur). It is frustrating to have a technician coming to your home who doesn’t actually address the real problem you have!&lt;/p&gt;
+ We are working together with
+&lt;a href=&quot;http://www.concomcow.nl/&quot;&gt;ConComCow&lt;/a&gt;
+to realize a part of the Real Life Learning roadmap for students at
+&lt;a href=&quot;https://www.techniekcollegerotterdam.nl/&quot;&gt;Techniek College Rotterdam&lt;/a&gt;.
+Our society needs to train people to obtain a combination of social and technical skills! We call this the “social mechanic” (sociale monteur). It is frustrating to have a technician coming to your home who doesn’t actually address the real problem you have!&lt;/p&gt;
 
 &lt;p style=&quot;text-align: center&quot;&gt;
 &lt;a href=&quot;mailto:team@crownstone.rocks?subject=I like to get free installation advice&quot; class=&quot;button-link&quot; style=&quot;display: inline-block; margin-left: auto; margin-right: auto&quot;&gt;I like to get free installation advice!&lt;/a&gt;
@@ -2182,9 +2177,7 @@ to realize a part of the Real Life Learning roadmap for students at
 
 &lt;h2 id=&quot;header-hacking-signals&quot;&gt;Hacking Signals!&lt;/h2&gt;
 
-&lt;p&gt;Our 
-&lt;a href=&quot;https://www.meetup.com/Smart-Home-Bluetooth-Hackerspace/&quot;&gt;monthly hackerspace&lt;/a&gt; 
-event is cool, but we decided that this time we wanted to be participants! Hence, we joined the 
+&lt;p&gt;We joined the 
 &lt;a href=&quot;https://robots.devpost.com/&quot;&gt;Robots at your Service hackathon&lt;/a&gt;. A 48-hour hackathon that inspires people to think about technology in the life of the elderly. After listening to 80 year olds complaining about tech in their lives, we knew what to do! Let them punch these useless robots! The 
 &lt;a href=&quot;https://devpost.com/software/frustybot&quot;&gt;FrustyBot&lt;/a&gt;
 was born! Hit the shapeless robot on a string and when your frustration boils over, it will helpfully reach out to a friendly human to guide you through yet another app on your swipe machine (“veegmachine” as one of the elderly eloquently baptized the smartphone).&lt;/p&gt;
@@ -2244,7 +2237,7 @@ as COO! Alexander has a lot of experience in business development, building orga
 &lt;img src=&quot;https://crownstone.rocks/attachments/builtin-crownstone-view2.jpg&quot; alt=&quot;Built-in Crownstone&quot; title=&quot;Built-in Crownstone&quot; class=&quot;float-left&quot; width=&quot;42%&quot; style=&quot;margin:4%&quot; /&gt;
 &lt;img src=&quot;https://crownstone.rocks/attachments/builtin-crownstone-view3.jpg&quot; alt=&quot;Built-in Crownstone&quot; title=&quot;Built-in Crownstone&quot; class=&quot;float-right&quot; width=&quot;42%&quot; style=&quot;margin:4%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You see that the shape has been slightly adapted from the first &lt;a href=&quot;https://shop.crownstone.rocks/products/development-kit-with-six-built-in-crownstones&quot;&gt;development items&lt;/a&gt; to accommodate for both the relays and the X2 capacitor. The thickness is one of the most important design considerations (besides of course fitting in the junction box). By having the relay and the capacitor on their side we’re able to reach a thinness of only 14 mm (1 mm less than the 15 mm we anticipated)!&lt;/p&gt;
+&lt;p&gt;You see that the shape has been slightly adapted from the first development items to accommodate for both the relays and the X2 capacitor. The thickness is one of the most important design considerations (besides of course fitting in the junction box). By having the relay and the capacitor on their side we’re able to reach a thinness of only 14 mm (1 mm less than the 15 mm we anticipated)!&lt;/p&gt;
 
 &lt;h2 id=&quot;header-action&quot;&gt;Action!&lt;/h2&gt;
 
@@ -2284,15 +2277,13 @@ as COO! Alexander has a lot of experience in business development, building orga
 
 &lt;p&gt;Of course, Bluetooth Low-Energy is the solution!&lt;/p&gt;
 
-&lt;p&gt;If enough people are walking around it is possible to use all those phones as location sensors. This is the concept behind &lt;a href=&quot;https://www.thetrackr.com/#crowdgps&quot;&gt;Crowd GPS from TrackR&lt;/a&gt;. Every person that is within BLE range of a device that requires tracking can help with finding it!&lt;/p&gt;
+&lt;p&gt;If enough people are walking around it is possible to use all those phones as location sensors. This is the concept behind Crowd GPS from TrackR. Every person that is within BLE range of a device that requires tracking can help with finding it!&lt;/p&gt;
 
 &lt;p&gt;It doesn’t take long to realize that the Crownstones might help with that as well! Imagine the Crowd GPS network we can roll out, awesome! The social consequences of the Crownstones are so plentiful it amazes us all the time how much this technology can work like a catalyst.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-consumer-electronics-show&quot;&gt;Consumer Electronics Show&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ces.tech/&quot;&gt;CES&lt;/a&gt; is the biggest consumer electronics fair in the world. As our ardent readers you know we are using the newest Nordic chip on the market as well as contributing to their &lt;a href=&quot;https://github.com/crownstone/nRF51-ble-bcast-mesh&quot;&gt;OpenMesh code&lt;/a&gt;. We are extremely honored to be asked to have our products displayed in their booth in Las Vegas! If you have suggestions about how to make our product the “coolest”, don’t hesitate to drop us some creative ideas!&lt;/p&gt;
-
-&lt;p&gt;If you want to do this in person, our &lt;a href=&quot;http://meetup.com/Smart-Home-Bluetooth-Hackerspace/&quot;&gt;meetup list&lt;/a&gt; is approaching 100 members, feel free to drop by any Friday!&lt;/p&gt;
 
 </content>
  </entry>
@@ -2335,10 +2326,6 @@ as COO! Alexander has a lot of experience in business development, building orga
 &lt;h2 id=&quot;header-shipping&quot;&gt;Shipping&lt;/h2&gt;
 
 &lt;p&gt;Of course you’re all curious when we will ship! We want to be 100% sure that our product is 100% perfect. This means that there should be nothing in the hardware that we didn’t anticipate! One of our competitors (although without our unique selling point of presence detection due to the use of Wi-Fi, not Bluetooth), &lt;a href=&quot;http://www.parce.de/en/&quot;&gt;Parce&lt;/a&gt;, had to recall all their products, a warning tale! So, be prepared to receive them soon, but we won’t overhaste in sending them out.&lt;/p&gt;
-
-&lt;h2 id=&quot;header-engage&quot;&gt;Engage!&lt;/h2&gt;
-
-&lt;p&gt;Come to our monthly hackerspace to get to know us! Just out of work you can drop by at Rotterdam Central Station tomorrow. &lt;a href=&quot;www.meetup.com/Smart-Home-Bluetooth-Hackerspace/&quot;&gt;Join our Hackerspace!&lt;/a&gt; You’ll discover how the app will look like for example! We’re happy we’re approaching the end of our product development. It’s been a crazy time and we’re grateful you’ve been with us along the journey!&lt;/p&gt;
 
 </content>
  </entry>
@@ -2723,7 +2710,7 @@ All of the LCH’s in all buses are at the bottom of the page.&lt;/p&gt;
       &lt;p&gt;Neil Zhao. Full-featured pedometer design realized with 3-Axis digital accelerometer. Analog Dialogue, 44(6), 2010. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Sébastien Ménigot. Pedometer in HTML5 for Firefox OS and Firefox for Android, 2014. &lt;a href=&quot;http://sebastien.menigot.free.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=93:pedometer-in-html5-&amp;amp;catid=46:web-application-for-firefox-os&amp;amp;Itemid=82&quot;&gt;source&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Sébastien Ménigot. Pedometer in HTML5 for Firefox OS and Firefox for Android, 2014. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;Dali Sun, Alexander Kleiner, and Thomas M. Wendt. Multi-robot range-only SLAM by active sensor nodes for urban search and rescue. In Robocup 2008: Robot Soccer World Cup XII, volume 5399, pages 318–330, 2009. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -2741,7 +2728,7 @@ All of the LCH’s in all buses are at the bottom of the page.&lt;/p&gt;
    <content type="html">
 &lt;h1 id=&quot;header-im-busy-the-app-that-keeps-up-your-status&quot;&gt;I’m Busy: the app that keeps up your status&lt;/h1&gt;
 
-&lt;p&gt;We made a simple &lt;a href=&quot;https://play.google.com/store/apps/details?id=nl.dobots.imbusy&quot;&gt;app&lt;/a&gt; that can notify others when you’re busy.
+&lt;p&gt;We made a simple app that can notify others when you’re busy.
 It’s made for elderly people who, for example, don’t want to be interrupted while they’re in the bathroom.&lt;/p&gt;
 
 &lt;p&gt;The app uses Bluetooth Smart beacons (which includes iBeacons) to localize itself. The iBeacon protocol is also
@@ -2760,7 +2747,7 @@ In the app you can see the status of your friends, and when you call someone who
 For the app, we used &lt;a href=&quot;http://www.igniterealtime.org/projects/smack/index.jsp&quot;&gt;Smack&lt;/a&gt;, which now easily runs on Android (before, you had to use aSmack).
 XMPP sped up development, as it already provides authorization, keeps up contact lists, and synchronizes the status.&lt;/p&gt;
 
-&lt;p&gt;To scan for beacons, I used our own &lt;a href=&quot;https://github.com/dobots/bluenet-lib-android&quot;&gt;bluenet android library&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To scan for beacons, I used our own &lt;a href=&quot;https://github.com/crownstone/bluenet-android-lib&quot;&gt;bluenet android library&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;And of course, you can find the source code on &lt;a href=&quot;https://github.com/dobots/imbusy-app&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -2786,33 +2773,33 @@ up. Below you see a wall with very short clips with people explaining in Dutch w
 the projects has also a website linked to it.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t1/&quot;&gt;Team 1&lt;/a&gt; developed ChildLock. Devices are only turned
+  &lt;li&gt;Team 1 developed ChildLock. Devices are only turned
 on when adults are in proximity.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t2/&quot;&gt;Team 2&lt;/a&gt; worked out Green Stone. A hotel visitor gets
+  &lt;li&gt;Team 2 worked out Green Stone. A hotel visitor gets
 information about being green using technology.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t3/&quot;&gt;Team 3&lt;/a&gt; developed Start VR. Virtual reality that
+  &lt;li&gt;Team 3 developed Start VR. Virtual reality that
 allows you to picture your own furniture in an Ikea store.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t4/&quot;&gt;Team 4&lt;/a&gt; introduced Never Lose. Lights indicate for
+  &lt;li&gt;Team 4 introduced Never Lose. Lights indicate for
 elderly people where they have lost items with iBeacons.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t5/&quot;&gt;Team 5&lt;/a&gt; used Crownstones to indicate the way to
+  &lt;li&gt;Team 5 used Crownstones to indicate the way to
 store employees.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t6/&quot;&gt;Team 6&lt;/a&gt; worked on Tommy. An AI that analyzes patterns
+  &lt;li&gt;Team 6 worked on Tommy. An AI that analyzes patterns
 of daily life to combat loneliness.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t7/&quot;&gt;Team 7&lt;/a&gt; developed Any Morning. Your phone using the
+  &lt;li&gt;Team 7 developed Any Morning. Your phone using the
 Crownstones guides you to your morning routines to make you leave your home on time.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t8/&quot;&gt;Team 8&lt;/a&gt; invented Crowns and Kingdoms. A game that
+  &lt;li&gt;Team 8 invented Crowns and Kingdoms. A game that
 uses energy savings measured by Crownstones to be able to build your assets faster in your kingdom.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t9/&quot;&gt;Team 9&lt;/a&gt; played with Benergy. In a student house the
+  &lt;li&gt;Team 9 played with Benergy. In a student house the
 energy bill is brought down through awareness by Crownstones which directly results in more beer!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t10/&quot;&gt;Team 10&lt;/a&gt; implemented Tipspromenad. Kids have to find
+  &lt;li&gt;Team 10 implemented Tipspromenad. Kids have to find
 objects in Ikea combined with solving puzzles for fun!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t11/&quot;&gt;Team 11&lt;/a&gt; developed SpotOn. In emergency situations
+  &lt;li&gt;Team 11 developed SpotOn. In emergency situations
 lights indicate how to flee a building.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t12/&quot;&gt;Team 12&lt;/a&gt; thought about using ambient lights and
+  &lt;li&gt;Team 12 thought about using ambient lights and
 scents to attract people to parts of a store.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t13/&quot;&gt;Team 13&lt;/a&gt; developed Ikea Bump. By bumping a phone
+  &lt;li&gt;Team 13 developed Ikea Bump. By bumping a phone
 a product will be in your virtual cart and people are led to the right place in the warehouse.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://project.cmi.hro.nl/2014_2015/emedia_mt_t14/&quot;&gt;Team 14&lt;/a&gt; experimented with ideas on cleaning
+  &lt;li&gt;Team 14 experimented with ideas on cleaning
 hotel rooms.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -2904,7 +2891,7 @@ websites to see much better movies and material they have created around their c
 &lt;h1 id=&quot;header-microview-and-crownstone&quot;&gt;MicroView and Crownstone&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/microview.JPG&quot; alt=&quot;Crownstone with attached MicroView&quot; title=&quot;Crownstone with attached MicroView&quot; style=&quot;width: 680px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Last week I figured it would be nice to attach the &lt;a href=&quot;http://learn.microview.io/intro/general-overview-of-microview.html&quot;&gt;MicroView&lt;/a&gt; to the &lt;a href=&quot;https://dobots.nl/products/crownstone&quot;&gt;Crownstone&lt;/a&gt;, so that it could display some info you normally see on your phone.
+&lt;p&gt;Last week I figured it would be nice to attach the &lt;a href=&quot;http://learn.microview.io/intro/general-overview-of-microview.html&quot;&gt;MicroView&lt;/a&gt; to the Crownstone, so that it could display some info you normally see on your phone.
 Since the Crownstone can only supply a low amount of power, the first thing I had to do is figure out how much power the MicroView consumes. I couldn’t find this online quick enough, so I simply measured it: about 12mA at 3.3V. This should be low enough for the Crownstone to supply!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/microview_schematic.svg&quot; alt=&quot;Schematic&quot; style=&quot;width: 680px&quot; /&gt;&lt;/p&gt;
@@ -2921,12 +2908,12 @@ To be able to switch between the different kinds of info, I added a simple push 
 
 &lt;div class=&quot;videowrapper&quot;&gt;
 		&lt;center&gt;
-		&lt;iframe frameborder=&quot;0&quot; width=&quot;560&quot; height=&quot;420&quot; allowfullscreen=&quot;&quot; src=&quot;//www.youtube.com/embed/NiflbCiuCBE?color=white&amp;amp;theme=light&amp;amp;title=&quot;&gt;&lt;/iframe&gt;
+		&lt;iframe frameborder=&quot;0&quot; width=&quot;85&quot; height=&quot;420&quot; allowfullscreen=&quot;&quot; src=&quot;//www.youtube.com/embed/JS4tf2v2Wg4?t=85?color=white&amp;amp;theme=light&amp;amp;title=t&quot;&gt;&lt;/iframe&gt;
 		&lt;/center&gt;
 		&lt;/div&gt;
 
 &lt;h1 id=&quot;header-code&quot;&gt;Code&lt;/h1&gt;
-&lt;p&gt;You can find the code I made for the MicroView at our &lt;a href=&quot;https://github.com/dobots/crownstone-micro-view&quot;&gt;github&lt;/a&gt;. And the Crownstone code is available under the &lt;a href=&quot;https://github.com/dobots/bluenet&quot;&gt;bluenet repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the code I made for the MicroView at our &lt;a href=&quot;https://github.com/dobots/crownstone-micro-view&quot;&gt;github&lt;/a&gt;. And the Crownstone code is available under the &lt;a href=&quot;https://github.com/crownstone/bluenet&quot;&gt;bluenet repository&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2981,10 +2968,9 @@ connect it:&lt;/p&gt;
 &lt;p&gt;Use something like a logic analyzer to see if you do things wrong. This is a very, very useful tool that can save you
 a lot of time.&lt;/p&gt;
 
-&lt;h1 id=&quot;header-scripts&quot;&gt;Scripts&lt;/h1&gt;
+&lt;h1 id=&quot;header-programming&quot;&gt;Programming&lt;/h1&gt;
 
-&lt;p&gt;Normally the Crownstone we program with the J-Link from Segger, but if you want to use this cheaper solution, we also
-created some files for you at the &lt;a href=&quot;https://github.com/dobots/bluenet/tree/master/scripts&quot;&gt;BlueNet repository at github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Crownstone we program with the J-Link from Segger. Read how to do this at the &lt;a href=&quot;https://github.com/crownstone/bluenet&quot;&gt;Bluenet repository at github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-combination&quot;&gt;Combination&lt;/h2&gt;
 
@@ -3019,14 +3005,14 @@ Before you use it, you will need to install &lt;code class=&quot;language-plaint
 git clone https://github.com/ntfreak/openocd
 sudo aptitude install libtool automake libusb-1.0-0-dev expect
 cd openocd
-./bootstrap 
+./bootstrap
 ./configure --enable-stlink
 make
 sudo make install
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;You will see that there are several files on &lt;a href=&quot;https://github.com/dobots/bluenet/tree/master/scripts/openocd&quot;&gt;github&lt;/a&gt; 
-that you can use. There is a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;49-stlinkv2.rules&lt;/code&gt; file that you can use for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;udev&lt;/code&gt; so that no superuser rights are 
+&lt;p&gt;You will see that there are several files on &lt;a href=&quot;https://github.com/crownstone/bluenet/tree/d1e370ac968849a7544791a07706b9172e566af0/source/scripts/openocd&quot;&gt;github&lt;/a&gt;
+that you can use (note that this is old, 2019). There is a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;49-stlinkv2.rules&lt;/code&gt; file that you can use for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;udev&lt;/code&gt; so that no superuser rights are
 required to use the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ST-Link&lt;/code&gt;. There is also an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openocd.cfg&lt;/code&gt; file that sets the defaults for the hardware we are
 gonna use (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nrf51&lt;/code&gt; series).&lt;/p&gt;
 
@@ -3055,7 +3041,7 @@ is not necessary):&lt;/p&gt;
 &lt;p&gt;If your target does not have pins to break out UART, it might be worth to first try and start experimenting with the
 RFduino. That board has enough pins broken out, to see what for example the Crownstone code is actually doing. For
 example if you combine a SoftDevice with the wrong bootloader, you will see proper error messages. If you know how
-to hook up &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gdb&lt;/code&gt; over OpenOCD, please feel free to file an issue at &lt;a href=&quot;https://github.com/dobots/bluenet/&quot;&gt;https://github.com/dobots/bluenet/&lt;/a&gt; and I will
+to hook up &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gdb&lt;/code&gt; over OpenOCD, please feel free to file an issue at &lt;a href=&quot;https://github.com/crownstone/bluenet/&quot;&gt;https://github.com/crownstone/bluenet/&lt;/a&gt; and we will
 be happy to update this guide.&lt;/p&gt;
 
 </content>
@@ -3081,7 +3067,7 @@ For the first prototype I used an &lt;a href=&quot;http://www.rfduino.com/produc
 To keep the prototype a bit small, we used paper with a &lt;a href=&quot;http://agic.cc/&quot;&gt;silver ink marker&lt;/a&gt; to connect to the battery. The casing is 3D printed and should provide enough protection for the electronics not to be sqeezed.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-code&quot;&gt;Code&lt;/h2&gt;
-&lt;p&gt;I slightly modified the code we had for the &lt;a href=&quot;http://dobots.nl/products/crownstone.html&quot;&gt;crownstone&lt;/a&gt;, such that it samples the voltage over the pressure sensor on request and puts the result in another characteristic. The code can be found &lt;a href=&quot;https://github.com/vliedel/bluenet/tree/vilt&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I slightly modified the code we had for the Ccrownstone, such that it samples the voltage over the pressure sensor on request and puts the result in another characteristic. The code can be found &lt;a href=&quot;https://github.com/vliedel/bluenet/tree/vilt&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
@@ -3094,9 +3080,8 @@ To keep the prototype a bit small, we used paper with a &lt;a href=&quot;http://
    <content type="html">
 &lt;h1 id=&quot;header-virtual-memo&quot;&gt;Virtual Memo&lt;/h1&gt;
 
-&lt;p&gt;The virtual memo (or “virtuele memo”) is a gadget created by a group of companies for the &lt;a href=&quot;http://wots.nl&quot;&gt;Wots&lt;/a&gt; 
-conference. On the moment you can read a bit more on the &lt;a href=&quot;http://wots.nl/gadget-virtuele-memo/&quot;&gt;Wots page&lt;/a&gt;, but 
-those websites tend to be removed after the event, so this blog post will be a sticky reference to what this thing is
+&lt;p&gt;The virtual memo (or “virtuele memo”) is a gadget created by a group of companies for the &lt;a href=&quot;http://wots.nl&quot;&gt;Wots&lt;/a&gt;
+conference. This blog post will be a sticky reference to what this thing is
 about and what you can do with it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/memo_logo.jpg&quot; alt=&quot;Memo logo&quot; class=&quot;float-right&quot; style=&quot;width: 500px&quot; /&gt;&lt;/p&gt;
@@ -3197,11 +3182,11 @@ variant is called PhoneGap).&lt;/p&gt;
 
 &lt;h2 id=&quot;header-ios&quot;&gt;iOS&lt;/h2&gt;
 
-&lt;p&gt;A convenient tool on iOS is &lt;a href=&quot;https://itunes.apple.com/us/app/ble-utility/id606210918?mt=8&quot;&gt;BLE Utility&lt;/a&gt;. It is graphical nice and clean and it shows all services and characteristics you need. You can easily set a characteristic that you have defined yourself on a custom BLE device.&lt;/p&gt;
+&lt;p&gt;A convenient tool on iOS is the app “BLE Utility”. It is graphical nice and clean and it shows all services and characteristics you need. You can easily set a characteristic that you have defined yourself on a custom BLE device.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
 
-&lt;p&gt;There are plenty of BLE dongles you can buy if your laptop (or raspberry pi) does not support Bluetooth Low-Energy, Bluetooth 4, Bluetooth Smart, or iBeacon (whatever they call it nowadays) out of the box. We ordered a few at &lt;a href=&quot;http://www.miniinthebox.com/nl/3mbps-bluetooth-mvo-usb-dongle-met-20m-werkbereik_p367687.html&quot;&gt;MiniInTheBox&lt;/a&gt; that have &lt;a href=&quot;http://www.csr.com/products/technology/low-energy&quot;&gt;CSR&lt;/a&gt; (Cambridge Silicon Radio) as label.&lt;/p&gt;
+&lt;p&gt;There are plenty of BLE dongles you can buy if your laptop (or raspberry pi) does not support Bluetooth Low-Energy, Bluetooth 4, Bluetooth Smart, or iBeacon (whatever they call it nowadays) out of the box. We ordered a few at the well-known online shops.&lt;/p&gt;
 
 &lt;p&gt;Type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hciconfig&lt;/code&gt; before and after you plug in the new dongle.&lt;/p&gt;
 
@@ -3398,8 +3383,6 @@ But they interpret the information D very differently, because they have differe
 
 &lt;p&gt;An illustrative example is from Del Pero et al. in &lt;a href=&quot;http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Del_Pero_Understanding_Bayesian_Rooms_2013_CVPR_paper.pdf&quot;&gt;Understanding bayesian rooms using composite 3d object models&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/slides/abs14/images/delpero.png&quot; alt=&quot;Chairs&quot; title=&quot;Chairs&quot; /&gt;`&lt;/p&gt;
-
 &lt;p&gt;One of the chairs you can see very well, but the other is occluded by the table. To perform inference over this structure requires a presentation of a chair and the ability of reasoning over multiple of those composed objects. Only then it becomes feasible to infer the full chair behind this table.&lt;/p&gt;
 
 &lt;p&gt;Another example is speaker diarization. Imagine an organized meeting, there are people talking, supposedly not at the same time, but sequentially. How do we perform inference on the number of speakers present and how can we build an inference engine that benefits from Bob talking at time \(t[0] \cdots t[30]\), and him talking at time \(t[120] \cdots t[180]\)? The system should all the time improve from Bob talking!&lt;/p&gt;
@@ -3429,7 +3412,7 @@ But they interpret the information D very differently, because they have differe
 
 &lt;h2 id=&quot;header-sportopia&quot;&gt;Sportopia&lt;/h2&gt;
 
-&lt;p&gt;The application developed by Kevin Groen, Aster Schultz, and Dennis Reep is called Sportopia and is available on &lt;a href=&quot;https://play.google.com/store/apps/details?id=alm.motiv.AlmendeMotivator&quot;&gt;Google Play&lt;/a&gt;. It hooks up to your Facebook contacts, so it nicely integrates with your social network. It then enables you to send so-called challenges to your friends. For example, you can ask your roommate to get beer from the supermarket. A perhaps questionable activity with respect to exercise overall, but an activity nevertheless! As proof you can ask for evidence in the form of pictures. In the meantime you can try to motivate him with text messages.&lt;/p&gt;
+&lt;p&gt;The application developed by Kevin Groen, Aster Schultz, and Dennis Reep is called Sportopia. It hooks up to your Facebook contacts, so it nicely integrates with your social network. It then enables you to send so-called challenges to your friends. For example, you can ask your roommate to get beer from the supermarket. A perhaps questionable activity with respect to exercise overall, but an activity nevertheless! As proof you can ask for evidence in the form of pictures. In the meantime you can try to motivate him with text messages.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://crownstone.rocks/attachments/friends.png&quot; alt=&quot;Sportopia Friends&quot; style=&quot;width: 300px&quot; /&gt;
 &lt;img src=&quot;https://crownstone.rocks/attachments/challenges.png&quot; alt=&quot;Sportopia Challenges&quot; style=&quot;width: 300px&quot; /&gt;
@@ -3460,7 +3443,7 @@ But they interpret the information D very differently, because they have differe
 
 &lt;p&gt;The advantage of the RFduino is that it on top of the nRF51822 provides FCC and CE certification, has a thought out antenna design, and has so many boards that function as shields. It is created by the company &lt;a href=&quot;http://rfdigital.com/&quot;&gt;RF Digital&lt;/a&gt; under the module name RFD51822 and later the RFD22102. Note that there are &lt;a href=&quot;http://www.nordicsemi.com/eng/Products/3rd-Party-Bluetooth-low-energy-Modules&quot;&gt;other 3rd Party Bluetooth Low Energy vendors&lt;/a&gt; listed on the Nordic site, that have these advantages as well. Besides that, for example the MBDT40 from Raytac Corp has all the 31 GPIO available, while the RFduino only has 7 GPIO pins.&lt;/p&gt;
 
-&lt;p&gt;Anyway, interestingly, the RFduino code is not open-source, or most of it is not open-source. This is awkward, given the fact that the guys from RF Digital, started the website &lt;www.opensourcerf.com&gt; to indicate their involvement. The RFduino first came with a simple means to upload a binary to the RFduino, namely using the same tool as with most of the other Arduino boards: __avrdude__. Regretfully, after learning that changes to the open-source code in avrdude must be made open-source as well, the developer behind RFduino took all his sites offline (github as well as the forums), and came back online again with a proprietary tool to do so. A very strange move. The bootloader that resides on the RFduino is made proprietary as well, it is not even available in binary form. Interestingly, I saw some wrapper code between the Arduino code and the SoftDevice libraries from Nordic. If anything, these header files should be kept private. On the Nordic forums the employees do not know of any reason why the flash tool or the bootloader has to be proprietary. It seems to run counter any business sense. The more ways the RFD22102 boards can be programmed, the more will be sold from them.&lt;/www.opensourcerf.com&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, interestingly, the RFduino code is not open-source, or most of it is not open-source. This is awkward, given the fact that the guys from RF Digital, started the website &lt;a href=&quot;https://www.opensourcerf.com&quot;&gt;https://www.opensourcerf.com&lt;/a&gt; to indicate their involvement. The RFduino first came with a simple means to upload a binary to the RFduino, namely using the same tool as with most of the other Arduino boards: &lt;strong&gt;avrdude&lt;/strong&gt;. Regretfully, after learning that changes to the open-source code in avrdude must be made open-source as well, the developer behind RFduino took all his sites offline (github as well as the forums), and came back online again with a proprietary tool to do so. A very strange move. The bootloader that resides on the RFduino is made proprietary as well, it is not even available in binary form. Interestingly, I saw some wrapper code between the Arduino code and the SoftDevice libraries from Nordic. If anything, these header files should be kept private. On the Nordic forums the employees do not know of any reason why the flash tool or the bootloader has to be proprietary. It seems to run counter any business sense. The more ways the RFD22102 boards can be programmed, the more will be sold from them.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-programming-it-ourselves&quot;&gt;Programming it ourselves…&lt;/h2&gt;
 
@@ -3771,7 +3754,8 @@ is not that complicated, it is easier to choose an existing solution. This
 implementation simplicity is reflected in the number of apps available
 performing the task of recording sensory data. After a quick review of
 available apps in the Google &lt;a href=&quot;http://play.google.com/&quot;&gt;Play store&lt;/a&gt;, our weapon
-of choice became &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.kzs6502.sensorlogger&quot;&gt;Sensor Logger&lt;/a&gt;. Its benefits are the adjustable sensor rate, the
+of choice became - the now obsolete - “Sensor Logger” app.
+Its benefits are the adjustable sensor rate, the
 number of (virtual) sensors (raw accelerometer, linear acceleration,
 orientation, rotation, etc) and the easy csv format in which data is logged. A
 drawback is the lack of gps recording, but due the nature of your recordings
@@ -3892,11 +3876,8 @@ Just think of the possibilities and advantages!&lt;/p&gt;
   &lt;li&gt;Getting coffee for colleagues becomes a breeze&lt;/li&gt;
   &lt;li&gt;No germ spreading through coffee machine buttons&lt;/li&gt;
   &lt;li&gt;Pretty, identifying RFID tags on every cup (dishwasher-proof of course)&lt;/li&gt;
-  &lt;li&gt;Maybe even &lt;a href=&quot;http://soft.vub.ac.be/soft/edu/thesis/proposals1213/thingdb&quot;&gt;find the cup when it is lost&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Automatic statistics gathered by the &lt;a href=&quot;http://andrewbrobinson.com/2011/12/27
-/hacking-the-keurig-b40-coffee-maker-part-1-hardware/&quot;&gt;Arduino &amp;amp; RFID reader in the coffee machine&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Maybe even find the cup when it is lost&lt;/li&gt;
+  &lt;li&gt;Automatic statistics gathered by the Arduino &amp;amp; RFID reader in the coffee machine&lt;/li&gt;
   &lt;li&gt;Connect it to a webserver and have a live coffee consumption leaderboard&lt;/li&gt;
   &lt;li&gt;Automatic machine status messages and requests for refilling, etc. The coffee machine becomes a truly autonomous entity!&lt;/li&gt;
   &lt;li&gt;Overrule standard settings for a particular cup through the internet or coffee machine interface. Use machine learning to predict and learn these deviations.&lt;/li&gt;
@@ -3949,7 +3930,7 @@ decomposition depending on the coffee quantity in the morning.&lt;/p&gt;
 		&lt;/div&gt;
 
 &lt;p&gt;For other algorithms do also not hesitate to visit the website
-&lt;a href=&quot;http://almende.github.com/nets/&quot;&gt;NETS&lt;/a&gt; dedicated to algorithms only!&lt;/p&gt;
+&lt;a href=&quot;https://github.com/almende&quot;&gt;NETS&lt;/a&gt; dedicated to algorithms only!&lt;/p&gt;
 
 </content>
  </entry>
@@ -3962,8 +3943,7 @@ decomposition depending on the coffee quantity in the morning.&lt;/p&gt;
    <content type="html">
 &lt;h1 id=&quot;header-localization&quot;&gt;Localization&lt;/h1&gt;
 
-&lt;p&gt;This is a follow-up on the earlier post about
-&lt;a href=&quot;https://crownstone.rocks/2012/02/28/a-brief-story-of-slam/&quot;&gt;SLAM&lt;/a&gt;. Localization
+&lt;p&gt;This is a follow-up on the earlier post about SLAM Localization
 is inherent to SLAM if the system is working perfectly, but that usually requires
 expensive sensors like laser range finders and lots of computing power. As we
 envision cheap and expendable robots, we would like to know whether reliable
@@ -4114,18 +4094,18 @@ the Romo will arrive somewhere in early June.&lt;/p&gt;
 interface for the user because now they can hitchhike on the nice AMOLED, etc.
 screens of a smartphone which the customer does have anyway already. Such as
 for example the &lt;a href=&quot;http://www.everistgenomics.com/content/cardiodefender/summary.htm&quot;&gt;Cardio Defender&lt;/a&gt; from Everist Genomics, the
-&lt;a href=&quot;http://www.zensorium.com/gallery/gallery.html&quot;&gt;Tinké&lt;/a&gt; from Zensorium, the
+Tinké from Zensorium, the
 &lt;a href=&quot;http://www.dexcom.com/seven-plus&quot;&gt;Zeven Plus&lt;/a&gt; glucose meter from Dexcom, the
 &lt;a href=&quot;http://www.valencell.com/&quot;&gt;v-linc&lt;/a&gt; heart rhythm sensor from Valencell, the
-&lt;a href=&quot;http://www.adidas.com/nl/micoach/&quot;&gt;micoach&lt;/a&gt; smart shoes from Adidas.&lt;/p&gt;
+micoach smart shoes from Adidas.&lt;/p&gt;
 
 &lt;p&gt;Slowly, however there are are also actuators (things with a motor) attached to
 the smartphone as an add-on. There is for example the &lt;a href=&quot;http://www.xapprgun.com/&quot;&gt;Xappr gun&lt;/a&gt;, the &lt;a href=&quot;http://www.techinasia.com/vibease-pre-order/&quot;&gt;Vibease
 vibrator&lt;/a&gt;, the &lt;a href=&quot;https://www.cobra.com/detail/cobra-phonetag.cfm&quot;&gt;Cobra key finder&lt;/a&gt; and the
-&lt;a href=&quot;http://www.bikn.com/index.php&quot;&gt;bikn&lt;/a&gt;, the Panasonic &lt;a href=&quot;http://www.cnet.com/8301-13553_1-57400077-32/smartphone-talks-to-panasonic-rice-cooker/&quot;&gt;rice cooker&lt;/a&gt;, several &lt;a href=&quot;http://www.lightinthebox.com/unique-design-h-264-wireless-ptz-ip-camera-smartphone-control-msn-server_p238092.html&quot;&gt;PTZ IP cameras&lt;/a&gt;, numerous helicopters, the &lt;a href=&quot;https://www.parrot.com/global/drones/parrot-ardrone-20-elite-edition&quot;&gt;Parrot
+&lt;a href=&quot;http://www.bikn.com/index.php&quot;&gt;bikn&lt;/a&gt;, the Panasonic &lt;a href=&quot;http://www.cnet.com/8301-13553_1-57400077-32/smartphone-talks-to-panasonic-rice-cooker/&quot;&gt;rice cooker&lt;/a&gt;, several PTZ IP cameras, numerous helicopters, the &lt;a href=&quot;https://www.parrot.com/global/drones/parrot-ardrone-20-elite-edition&quot;&gt;Parrot
 quadrocopter&lt;/a&gt;, the
 &lt;a href=&quot;http://www.gosphero.com/&quot;&gt;sphero&lt;/a&gt;, an underwater robot, the Hydroview (3000
-dollar) from Aquabotix, the &lt;a href=&quot;http://samuelwilkinson.com/biome/&quot;&gt;Biometerrarium&lt;/a&gt;, the &lt;a href=&quot;http://www.orb.com/en/store.html&quot;&gt;Orb music player&lt;/a&gt;, etcetera, etcetera.&lt;/p&gt;
+dollar) from Aquabotix, the &lt;a href=&quot;http://samuelwilkinson.com/biome/&quot;&gt;Biometerrarium&lt;/a&gt;, the Orb music player, etcetera, etcetera.&lt;/p&gt;
 
 &lt;p&gt;This world of smartphone-enabled devices is booming. A personal computer has
 always been, notwithstanding its name, kind of “impersonal”. Your computer
@@ -4210,7 +4190,7 @@ has been invented by Bayer to mimic the physiology of the human retina which
 is more sensitive to green.&lt;/p&gt;
 
 &lt;p&gt;The media framework set up by Laurent makes it possible to make an image
-processing pipeline where there is a list of /dev/video* devices with
+processing pipeline where there is a list of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/dev/video*&lt;/code&gt; devices with
 different output. The pipeline can be configured such that one of these
 streams raw images, another monochrome images, and yet another YUYV images.&lt;/p&gt;
 
@@ -4239,12 +4219,9 @@ mkdir -p ${FIRESWARM_KERNEL_MODULES}
 make ARCH=arm INSTALL_MOD_PATH=${FIRESWARM_KERNEL_MODULES} modules_install
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;There are .config files included in the kernel (of course). So you will have
-to browse the webs for something that is usable. For your convenience I put a
-.config here that is build from Sakoman’s 3.2 .config version and an
-omap3-overo .config file, plus some changes from ourselves for Linux 3.3:
-&lt;a href=&quot;documents/10530/0/.config&quot;&gt;.config&lt;/a&gt;. You will of course need to check them,
-it might have keyboard/mouse disabled for example. You will benefit from two
+&lt;p&gt;There are &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.config&lt;/code&gt; files included in the kernel (of course). So you will have
+to browse the webs for something that is usable. 
+You will benefit from two
 utility programs, namely media-ctl and yavta. You can find them at
 &lt;a href=&quot;http://git.ideasonboard.org&quot;&gt;git.ideasonboard.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -4345,7 +4322,7 @@ networks.&lt;/p&gt;
 
 &lt;p&gt;Empowerment is an attempt to define in an information theoretic sense the
 concept of autonomy. It is the amount of information an agent can potentially
-inject into the environment via its actuators and _capture later _via its
+inject into the environment via its actuators and_capture later via its
 sensors. The principle of empowerment maximization has an agent act in such
 way, that its perception later is the richest experience imaginable. This is
 self-organization in a sensorimotor space.&lt;/p&gt;
@@ -4353,7 +4330,7 @@ self-organization in a sensorimotor space.&lt;/p&gt;
 &lt;p&gt;See also:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Predictive information and explorative behavior of autonomous robots [Ay, Bertschinger, Der, Güttler, Olbrich], 2008 (&lt;a href=&quot;http://www.santafe.edu/media/workingpapers/08-02-006.pdf&quot;&gt;pdf&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Predictive information and explorative behavior of autonomous robots [Ay, Bertschinger, Der, Güttler, Olbrich], 2008&lt;/li&gt;
   &lt;li&gt;Information theory of decisions and actions [Tishby, Polani] (&lt;a href=&quot;http://eprints.pascal-network.org/archive/00005915/01/IT-PAC.pdf&quot;&gt;pdf&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -4381,7 +4358,7 @@ come up with this representation entirely by themselves!&lt;/p&gt;
 &lt;h2 id=&quot;header-contraction-theory&quot;&gt;Contraction theory&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;A study of synchronization and group cooperation using partial contraction theory [Slotine, Wang], 2005 (&lt;a href=&quot;http://web.mit.edu/people/wangwei/CooperativeControl.pdf&quot;&gt;pdf&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;A study of synchronization and group cooperation using partial contraction theory [Slotine, Wang], 2005&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Contraction theory tells you something that is very important to synthesize
@@ -4418,7 +4395,7 @@ Kohonen networks which is worth to look at it for its own reasons.&lt;/p&gt;
 &lt;p&gt;Random networks can produce time-locked patterns that are &lt;em&gt;not&lt;/em&gt; synchronous.
 When delays exist between neurons specific patterns emerge when input is
 provided. Simplifying, suppose a post-synaptic neuron gets activitated if
-&lt;em&gt;two&lt;/em&gt; pre-synaptic neurons fire, when their spikes _after _two different
+two pre-synaptic neurons fire, when their spikes after two different
 delays through the synaptic cleft, arrives at their destination. It is not
 important when the neurons fire, but when their activity comes together at the
 same time! In this way networks of neurons are formed. Very interesting, the
@@ -4585,7 +4562,7 @@ to combine with other coding options, either single chip based or not.&lt;/p&gt;
 
 &lt;h2 id=&quot;header-joybien&quot;&gt;Joybien&lt;/h2&gt;
 
-&lt;p&gt;In the picture you see the JoyXtix dongle from Joybien [1]. There are three
+&lt;p&gt;In the picture you see the JoyXtix dongle from Joybien. There are three
 ways in which this friendly manufacturer of dongles, based in Taiwan, can open
 up their API for application developers on Android or iPhone:&lt;/p&gt;
 
@@ -4596,8 +4573,6 @@ up their API for application developers on Android or iPhone:&lt;/p&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;We had the idea first. :-)&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;http://www.joybien.com/product/Product_JoyXtix.html&quot;&gt;http://www.joybien.com/product/Product_JoyXtix.html&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
